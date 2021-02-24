@@ -1,0 +1,290 @@
+3,"t","National Hop Report: Released December 22, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+3,"t","Hop Area Harvested, Yield, Production, Price, and Value – States and United States: 2018-2020"
+3,"h","","","","","",""
+3,"h","State","Area","Yield","","Price","Value"
+3,"h","and","harvested","per","Production","per","of"
+3,"h","year","","acre","","pound","production"
+3,"h","","","","","",""
+3,"u","","(acres)","(pounds)","(1,000 pounds)","(dollars)","(1,000 dollars)"
+3,"d","Idaho",,,,,
+3,"d","2018",8140,1995,16242.8,5.30,86087
+3,"d","2019",8358,2034,17003.1,5.25,89266
+3,"d","2020",9268,1855,17190.1,5.80,99703
+3,"d","",,,,,
+3,"d","Oregon",,,,,
+3,"d","2018",7725,1675,12936.2,5.40,69855
+3,"d","2019",7306,1783,13023.2,5.50,71628
+3,"d","2020",7104,1755,12468.7,6.00,74812
+3,"d","",,,,,
+3,"d","Washington",,,,,
+3,"d","2018",39170,1984,77727.7,5.50,427502
+3,"d","2019",40880,2006,82014.9,5.80,475686
+3,"d","2020",42269,1754,74151.5,6.00,444909
+3,"d","",,,,,
+3,"d","United States",,,,,
+3,"d","2018",55035,1943,106906.7,5.46,583444
+3,"d","2019",56544,1981,112041.2,5.68,636580
+3,"d","2020",58641,1770,103810.3,5.97,619424
+3,"c",""
+1,"t","National Hop Report: Released December 22, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+1,"t","Hop Area Harvested, Yield, and Production by Variety – States and United States: 2018-2020"
+1,"h","","","","","","",""
+1,"h","State","Area harvested","Area harvested","Area harvested","Yield per acre","Yield per acre","Yield per acre"
+1,"h","and","","","","","",""
+1,"h","variety","2018","2019","2020","2018","2019","2020"
+1,"h","","","","","","",""
+1,"u","","(acres)","(acres)","(acres)","(pounds)","(pounds)","(pounds)"
+1,"d","Idaho",,,,,,
+1,"d","Amarillo R, VGXP01",825,561,538,2009,1560,1576
+1,"d","Apollo TM",232,"(D)","(D)",1951,"(D)","(D)"
+1,"d","Bravo TM",87,"(D)","(D)",2226,"(D)","(D)"
+1,"d","Calypso TM",81,81,"(D)",2138,1901,"(D)"
+1,"d","Cascade",836,710,407,1716,1823,1213
+1,"d","Cashmere","(D)","(D)",125,"(D)","(D)",1578
+1,"d","Chinook",962,786,624,1873,2215,1614
+1,"d","Citra R, HBC 394",855,973,1527,1438,1532,1686
+1,"d","Cluster",63,"(D)","(D)",2126,"(D)","(D)"
+1,"d","",,,,,,
+1,"d","Columbus/Tomahawk/Zeus 1/","(D)",991,1457,"(D)",3002,2673
+1,"d","Comet","(D)",112,93,"(D)",1970,1740
+1,"d","Crystal",150,131,"(D)",1927,1971,"(D)"
+1,"d","El Dorado R",120,352,526,1463,1352,1590
+1,"d","Eureka! TM",133,185,"(D)",2299,2243,"(D)"
+1,"d","Galena",109,113,"(D)",1715,1773,"(D)"
+1,"d","Hallertauer","(D)",25,159,"(D)",1253,614
+1,"d","Idaho 7 TM","(D)",388,564,"(D)",2562,2442
+1,"d","Mosaic R, HBC 369",506,801,1186,2333,2296,2335
+1,"d","Northern Brewer","(D)",57,58,"(D)",1407,1432
+1,"d","",,,,,,
+1,"d","Saaz","(D)",140,"(D)","(D)",771,"(D)"
+1,"d","Simcoe R, YCR 14",449,469,425,1245,1164,992
+1,"d","Super Galena TM",84,"(D)","(D)",2493,"(D)","(D)"
+1,"d","Triumph","(NA)","(NA)",39,"(NA)","(NA)",365
+1,"d","Willamette","(D)",170,"(D)","(D)",1695,"(D)"
+1,"d","Zeus 1/",1496,611,"(NA)",2764,2672,"(NA)"
+1,"d","",,,,,,
+1,"d","Other varieties 2/",1152,702,1540,1845,1971,1567
+1,"d","",,,,,,
+1,"d","Total",8140,8358,9268,1995,2034,1855
+1,"d","",,,,,,
+1,"d","Oregon",,,,,,
+1,"d","Amarillo R, VGXP01","(D)",212,216,"(D)",2312,2360
+1,"d","Cascade",1064,1039,754,1623,1620,1639
+1,"d","Centennial",698,614,489,1277,1661,1675
+1,"d","Chinook",129,114,86,1674,1733,1481
+1,"d","Citra R, HBC 394",690,998,1327,1600,1476,1506
+1,"d","Crystal",354,247,"(D)",1819,1943,"(D)"
+1,"d","Fuggle",59,63,"(D)",1034,1243,"(D)"
+1,"d","Golding",121,92,"(D)",1160,1351,"(D)"
+1,"d","Liberty","(D)","(D)",56,"(D)","(D)",2289
+1,"d","",,,,,,
+1,"d","Magnum",105,"(D)","(D)",1284,"(D)","(D)"
+1,"d","Mosaic R, HBC 369","(D)",478,595,"(D)",2113,2155
+1,"d","Mt. Hood",311,295,159,1411,1538,1551
+1,"d","Nugget",1307,1059,826,1946,2130,1841
+1,"d","Perle",77,"(D)","(D)",1093,"(D)","(D)"
+1,"d","Sabro TM, HBC 438","(NA)","(D)",74,"(NA)","(D)",870
+1,"d","Simcoe R, YCR 14",436,440,474,1588,1845,1823
+1,"d","Sterling",191,147,58,1760,1643,1728
+1,"d","Strata OR 91331","(NA)",253,484,"(NA)",2066,2068
+1,"d","Super Galena TM",84,78,87,2216,2580,2801
+1,"d","Tettnanger",72,"(D)","(D)",1027,"(D)","(D)"
+1,"d","Willamette",913,619,605,1489,1717,1857
+1,"d","",,,,,,
+1,"d","Other varieties 2/",1114,558,814,2068,1644,1479
+1,"d","",,,,,,
+1,"d","Total",7725,7306,7104,1675,1783,1755
+1,"c",""
+1,"c","See footnote(s) at end of table.","--continued"
+2,"t","National Hop Report: Released December 22, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+2,"t","Hop Area Harvested, Yield, and Production by Variety – States and United States: 2018-2020 (continued)"
+2,"h","","","",""
+2,"h","State","Production","Production","Production"
+2,"h","and","","",""
+2,"h","variety","2018","2019","2020"
+2,"h","","","",""
+2,"u","","(1,000 pounds)","(1,000 pounds)","(1,000 pounds)"
+2,"d","Idaho",,,
+2,"d","Amarillo R, VGXP01",1657.4,875.2,847.9
+2,"d","Apollo TM",452.6,"(D)","(D)"
+2,"d","Bravo TM",193.7,"(D)","(D)"
+2,"d","Calypso TM",173.2,154.0,"(D)"
+2,"d","Cascade",1434.6,1294.3,493.7
+2,"d","Cashmere","(D)","(D)",197.3
+2,"d","Chinook",1801.8,1741.0,1007.1
+2,"d","Citra R, HBC 394",1229.5,1490.6,2574.5
+2,"d","Cluster",133.9,"(D)","(D)"
+2,"d","",,,
+2,"d","Columbus/Tomahawk/Zeus 1/","(D)",2975.0,3894.6
+2,"d","Comet","(D)",220.6,161.8
+2,"d","Crystal",289.1,258.2,"(D)"
+2,"d","El Dorado R",175.6,475.9,836.3
+2,"d","Eureka! TM",305.8,415.0,"(D)"
+2,"d","Galena",186.9,200.3,"(D)"
+2,"d","Hallertauer","(D)",31.3,97.6
+2,"d","Idaho 7 TM","(D)",994.1,1377.3
+2,"d","Mosaic R, HBC 369",1180.5,1839.1,2769.3
+2,"d","Northern Brewer","(D)",80.2,83.1
+2,"d","",,,
+2,"d","Saaz","(D)",107.9,"(D)"
+2,"d","Simcoe R, YCR 14",559.0,545.9,421.6
+2,"d","Super GalenaTM",209.4,"(D)","(D)"
+2,"d","Triumph","(NA)","(NA)",14.2
+2,"d","Willamette","(D)",288.2,"(D)"
+2,"d","Zeus 1/",4134.9,1632.6,"(NA)"
+2,"d","",,,
+2,"d","Other varieties 2/",2124.9,1383.7,2413.8
+2,"d","",,,
+2,"d","Total",16242.8,17003.1,17190.1
+2,"d","",,,
+2,"d","Oregon",,,
+2,"d","Amarillo R, VGXP01","(D)",490.1,509.8
+2,"d","Cascade",1726.9,1683.2,1235.8
+2,"d","Centennial",891.3,1019.9,819.1
+2,"d","Chinook",215.9,197.6,127.4
+2,"d","Citra R, HBC 394",1104.0,1473.0,1998.5
+2,"d","Crystal",643.9,479.9,"(D)"
+2,"d","Fuggle",61.0,78.3,"(D)"
+2,"d","Golding",140.4,124.3,"(D)"
+2,"d","Liberty","(D)","(D)",128.2
+2,"d","",,,
+2,"d","Magnum",134.8,"(D)","(D)"
+2,"d","Mosaic R, HBC 369","(D)",1010.0,1282.2
+2,"d","Mt. Hood",438.8,453.7,246.6
+2,"d","Nugget",2543.4,2255.7,1520.7
+2,"d","Perle",84.2,"(D)","(D)"
+2,"d","Sabro TM HBC 438","(NA)","(D)",64.4
+2,"d","Simcoe R, YCR 14",692.4,811.8,864.1
+2,"d","Sterling",336.2,241.5,100.2
+2,"d","Strata OR 91331","(NA)",522.7,1000.9
+2,"d","Super Galena TM",186.1,201.2,243.7
+2,"d","Tettnanger",73.9,"(D)","(D)"
+2,"d","Willamette",1359.5,1062.8,1123.5
+2,"d","",,,
+2,"d","Other varieties 2/",2303.5,917.5,1203.6
+2,"d","",,,
+2,"d","Total",12936.2,13023.2,12468.7
+2,"c",""
+2,"c","See footnote(s) at end of table.","--continued"
+4,"t","National Hop Report: Released December 22, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+4,"t","Hop Area Harvested, Yield, and Production by Variety – States and United States: 2018-2020 (continued)"
+4,"h","","","","","","",""
+4,"h","State","Area harvested","Area harvested","Area harvested","Yield per acre","Yield per acre","Yield per acre"
+4,"h","and","","","","","",""
+4,"h","variety","2018","2019","2020","2018","2019","2020"
+4,"h","","","","","","",""
+4,"u","","(acres)","(acres)","(acres)","(pounds)","(pounds)","(pounds)"
+4,"d","Washington",,,,,,
+4,"d","Ahtanum TM, YCR 1",255,261,230,2730,2820,2134
+4,"d","Amarillo R, VGXP01",1895,1597,1395,1868,1946,1649
+4,"d","Apollo TM",795,851,750,2848,2735,2248
+4,"d","Azacca TM, ADHA-483",546,589,722,2491,2441,1527
+4,"d","Bravo TM",280,236,201,3258,3216,2308
+4,"d","Cascade",4274,3718,2877,1972,1920,1551
+4,"d","Cashmere",195,310,448,1519,1699,1514
+4,"d","Centennial",3875,3031,2444,1364,1820,1640
+4,"d","Chinook",1734,1437,1183,1875,1942,1665
+4,"d","",,,,,,
+4,"d","Citra R, HBC 394",4837,6720,8143,1611,1424,1526
+4,"d","Cluster",610,470,413,1813,1815,2065
+4,"d","Columbus/Tomahawk/Zeus 1/",2034,2323,4829,2482,2584,2176
+4,"d","Comet",218,210,330,1750,1311,872
+4,"d","Crystal",114,66,"(D)",2357,1989,"(D)"
+4,"d","Ekuanot R, HBC 366",865,632,641,2583,2483,2158
+4,"d","El Dorado R",418,641,1058,1880,2032,1516
+4,"d","Eureka! TM",409,425,465,2954,3188,2332
+4,"d","Galena",390,297,241,2149,2045,1838
+4,"d","Idaho 7 TM","(D)",85,341,"(D)",1544,1736
+4,"d","",,,,,,
+4,"d","Jarrylo R, ADHA-881","(D)","(D)",17,"(D)","(D)",1428
+4,"d","Loral R, HBC 291",172,125,164,2349,2515,1874
+4,"d","Mosaic R, HBC 369",1932,2829,3715,2351,2054,1998
+4,"d","Mt. Hood",104,53,48,1454,1037,1139
+4,"d","Mt. Rainier",306,239,223,1899,2149,1586
+4,"d","Nugget",126,104,"(D)",1498,2313,"(D)"
+4,"d","Pahto TM, HBC 682",1721,2109,2208,2087,2398,2019
+4,"d","Palisade R, YCR 4",515,477,246,2441,2520,2114
+4,"d","Pekko R, ADHA-871",92,"(D)",801,1889,"(D)",1239
+4,"d","Sabro TM , HBC 438","(NA)",724,1145,"(NA)",1612,1886
+4,"d","",,,,,,
+4,"d","Simcoe R, YCR 14",3103,3367,3214,1642,1788,1643
+4,"d","Sorachi Ace",146,"(D)","(D)",1042,"(D)","(D)"
+4,"d","Summit TM",1574,1072,640,1826,1816,1096
+4,"d","Super Galena TM",500,473,475,3133,2871,2636
+4,"d","Tahoma",209,230,177,2147,1958,1588
+4,"d","Warrior YCR 5","(D)","(D)",283,"(D)","(D)",1669
+4,"d","Willamette",376,270,203,1348,1596,1458
+4,"d","Zeus 1/",2592,2612,"(NA)",2619,2620,"(NA)"
+4,"d","Experimental",374,360,453,1889,2251,1207
+4,"d","",,,,,,
+4,"d","Other varieties 2/",1584,1937,1546,1896,1888,1737
+4,"d","",,,,,,
+4,"d","Total",39170,40880,42269,1984,2006,1754
+4,"d","",,,,,,
+4,"d","United States 3/",55035,56544,58641,1943,1981,1770
+4,"c",""
+4,"c","See footnote(s) at end of table.","--continued"
+5,"t","National Hop Report: Released December 22, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+5,"t","Hop Area Harvested, Yield, and Production by Variety – States and United States: 2018-2020 (continued)"
+5,"h","","","",""
+5,"h","State","Production","Production","Production"
+5,"h","and","","",""
+5,"h","variety","2018","2019","2020"
+5,"h","","","",""
+5,"u","","(1,000 pounds)","(1,000 pounds)","(1,000 pounds)"
+5,"d","Washington",,,
+5,"d","Ahtanum TM, YCR 1",696.2,736.0,490.8
+5,"d","Amarillo R, VGXP01",3539.9,3107.8,2300.4
+5,"d","Apollo TM",2264.2,2327.5,1686.0
+5,"d","Azacca TM, ADHA-483",1360.1,1437.7,1102.5
+5,"d","Bravo TM",912.2,759.0,463.9
+5,"d","Cascade",8428.3,7138.6,4462.2
+5,"d","Cashmere",296.2,526.7,678.3
+5,"d","Centennial",5285.5,5516.4,4008.2
+5,"d","Chinook",3251.3,2790.7,1969.7
+5,"d","",,,
+5,"d","Citra R, HBC 394",7792.4,9569.3,12426.2
+5,"d","Cluster",1105.9,853.1,852.8
+5,"d","Columbus/Tomahawk/Zeus 1/",5048.4,6002.6,10507.9
+5,"d","Comet",381.5,275.3,287.8
+5,"d","Crystal",268.7,131.3,"(D)"
+5,"d","Ekuanot R, HBC 366",2234.3,1569.3,1383.3
+5,"d","El Dorado R",785.8,1302.5,1603.9
+5,"d","Eureka! TM",1208.2,1354.9,1084.4
+5,"d","Galena",838.1,607.4,443.0
+5,"d","Idaho 7 TM","(D)",131.2,592.0
+5,"d","",,,
+5,"d","Jarrylo R, ADHA-881","(D)","(D)",24.3
+5,"d","Loral R, HBC 291",404.0,314.4,307.3
+5,"d","Mosaic R, HBC 369",4542.1,5810.8,7422.6
+5,"d","Mt. Hood",151.2,55.0,54.7
+5,"d","Mt. Rainier",581.1,513.6,353.7
+5,"d","Nugget",188.7,240.6,"(D)"
+5,"d","Pahto TM, HBC 682",3591.7,5057.4,4458.0
+5,"d","Palisade R, YCR 4",1257.1,1202.0,520.0
+5,"d","Pekko R, ADHA-871",173.8,"(D)",992.4
+5,"d","Sabro TM , HBC 438","(NA)",1167.1,2159.5
+5,"d","",,,
+5,"d","Simcoe R, YCR 14",5095.1,6020.2,5280.6
+5,"d","Sorachi Ace",152.1,"(D)","(D)"
+5,"d","Summit TM",2874.1,1946.8,701.4
+5,"d","Super Galena TM",1566.5,1358.0,1252.1
+5,"d","Tahoma",448.7,450.3,281.1
+5,"d","Warrior YCR 5","(D)","(D)",472.3
+5,"d","Willamette",506.8,430.9,296.0
+5,"d","Zeus 1/",6788.4,6843.4,"(NA)"
+5,"d","Experimental",706.5,810.4,546.8
+5,"d","",,,
+5,"d","Other varieties 2/",3002.6,3656.7,2685.4
+5,"d","",,,
+5,"d","Total",77727.7,82014.9,74151.5
+5,"d","",,,
+5,"d","United States 3/",106906.7,112041.2,103810.3
+5,"c",""
+5,"f","(D)  Withheld to avoid disclosing data for individual operations."
+5,"f","(NA)  Not available."
+5,"f","R  Registered"
+5,"f","TM  Trademark"
+5,"f","1/ Beginning in 2020, Zeus is included in Columbus/Tomahawk/Zeus (C/T/Z)."
+5,"f","2/ Includes data withheld to avoid disclosure of individual operations and varieties not listed."
+5,"f","3/ Includes 770 acres of organic hops for 2020 with yield equal to 1,090 pounds per acre and production at 839,576 pounds."

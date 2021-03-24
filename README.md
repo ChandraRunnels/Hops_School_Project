@@ -1,3 +1,3 @@
 # Hops
 
-looking at table of hops in Washington State
+The production of the different types of hops grown in Idaho, Oregon, and Washington. 

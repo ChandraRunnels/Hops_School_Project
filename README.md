@@ -5,7 +5,7 @@ The production of the different types of hops grown in Idaho, Oregon, and Washin
 
 Cleaning Proceedure:
 
-Arranged the years of columns next to eachother
+Arranged the years to individual columns next to each other by year
 
 Erased any cells that had (D) or (NA)
 

@@ -1,0 +1,28 @@
+3,"t","National Hop Report: Released December 22, 2020, by the National Agricultural Statistics Service (NASS), Agricultural Statistics Board, United States Department of Agriculture (USDA)."
+3,"t","Hop Area Harvested, Yield, Production, Price, and Value – States and United States: 2018-2020"
+3,"h","","","","","",""
+3,"h","State","Area","Yield","","Price","Value"
+3,"h","and","harvested","per","Production","per","of"
+3,"h","year","","acre","","pound","production"
+3,"h","","","","","",""
+3,"u","","(acres)","(pounds)","(1,000 pounds)","(dollars)","(1,000 dollars)"
+3,"d","Idaho",,,,,
+3,"d","2018",8140,1995,16242.8,5.30,86087
+3,"d","2019",8358,2034,17003.1,5.25,89266
+3,"d","2020",9268,1855,17190.1,5.80,99703
+3,"d","",,,,,
+3,"d","Oregon",,,,,
+3,"d","2018",7725,1675,12936.2,5.40,69855
+3,"d","2019",7306,1783,13023.2,5.50,71628
+3,"d","2020",7104,1755,12468.7,6.00,74812
+3,"d","",,,,,
+3,"d","Washington",,,,,
+3,"d","2018",39170,1984,77727.7,5.50,427502
+3,"d","2019",40880,2006,82014.9,5.80,475686
+3,"d","2020",42269,1754,74151.5,6.00,444909
+3,"d","",,,,,
+3,"d","United States",,,,,
+3,"d","2018",55035,1943,106906.7,5.46,583444
+3,"d","2019",56544,1981,112041.2,5.68,636580
+3,"d","2020",58641,1770,103810.3,5.97,619424
+3,"c",""

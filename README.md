@@ -20,3 +20,6 @@ This is the same graph except it is by the Type of hop.
 
 ![image](https://user-images.githubusercontent.com/61097093/113804003-83b7d300-9712-11eb-9473-d51a1536146d.png)
 
+
+2019
+![image](https://user-images.githubusercontent.com/61097093/114652773-64352300-9c9b-11eb-90e4-ad62ece8b8ca.png)

@@ -26,14 +26,20 @@ The following graph shows the 2018 highest grossing hops by State
 ![image](https://user-images.githubusercontent.com/61097093/114653388-cb070c00-9c9c-11eb-9396-ff41e2ca8731.png) ![image](https://user-images.githubusercontent.com/61097093/114653397-cfcbc000-9c9c-11eb-8bdd-0643133f9868.png)
 
 • Motivating Question: What question were you setting out to answer at the start of this project?
+
 • Data Process: The centerpiece of your writeup should be a comprehensive discussion of your
 process for sourcing, collecting, cleaning, and transforming the raw data into your final dataset. The
 instructions should be clear enough that someone else could reproduce your process based on just the
 readme file to obtain the same final results.
+
 • Visualization: Choose and construct a single visualization to summarize and represent your data.
+
 • Analytical Technique: Apply one of the techniques that we have covered in the course to your
 dataset and provide an analysis of the results. You can choose from either among the exploratory data
 analysis topics or from the techniques we cover later in the course2
-.
+
 • Presentation: In the final week of class, you will give a three minute presentation3 about your
 dataset and repository
+
+• References:
+

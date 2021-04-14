@@ -12,14 +12,15 @@ Erased any cells that had (D) or (NA)
 Added the price columns for each year from the Hops Price Table
 
 The following graph shows the 2018 highest grossing hops by State
-
-
-![image](https://user-images.githubusercontent.com/61097093/113803503-8a921600-9711-11eb-89c8-62803daddae5.png)
-
-This is the same graph except it is by the Type of hop.
-
-![image](https://user-images.githubusercontent.com/61097093/113804003-83b7d300-9712-11eb-9473-d51a1536146d.png)
-
+2018
+![image](https://user-images.githubusercontent.com/61097093/114653320-a4e16c00-9c9c-11eb-877a-13db99b28ce7.png)
+![image](https://user-images.githubusercontent.com/61097093/114653340-aca11080-9c9c-11eb-88a1-2a1004e1cbf5.png)
 
 2019
-![image](https://user-images.githubusercontent.com/61097093/114652773-64352300-9c9b-11eb-90e4-ad62ece8b8ca.png)
+![image](https://user-images.githubusercontent.com/61097093/114653362-bb87c300-9c9c-11eb-9c08-59d832beb0bf.png)
+![image](https://user-images.githubusercontent.com/61097093/114653372-c2163a80-9c9c-11eb-8534-89d6c03be63a.png)
+
+2020
+![image](https://user-images.githubusercontent.com/61097093/114653388-cb070c00-9c9c-11eb-9396-ff41e2ca8731.png)
+![image](https://user-images.githubusercontent.com/61097093/114653397-cfcbc000-9c9c-11eb-8bdd-0643133f9868.png)
+

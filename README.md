@@ -2,14 +2,18 @@
 #• Motivating Question: 
 What question were you setting out to answer at the start of this project?
 
+Question: If I wanted to grow an acre of hops, in what state and what type would I need to grow in order to be the most profitable? 
+
 • Data Process: The centerpiece of your writeup should be a comprehensive discussion of your
 process for sourcing, collecting, cleaning, and transforming the raw data into your final dataset. The
 instructions should be clear enough that someone else could reproduce your process based on just the
 readme file to obtain the same final results.
 
+I found my data at the USDA's website https://usda.library.cornell.edu/concern/publications/s7526c41m where I recieved the information on he production of the different types of hops grown in Idaho, Oregon, and Washington. 
+
+
 • Visualization: Choose and construct a single visualization to summarize and represent your data.
-The production of the different types of hops grown in Idaho, Oregon, and Washington. 
- Raw data collected from the USDA https://usda.library.cornell.edu/concern/publications/s7526c41m
+
 
 Cleaning Proceedure:
 
@@ -24,11 +28,10 @@ The following graph shows the 2018 highest grossing hops by State
 
 
 <table>
-  <tr>
- <td>![image](https://user-images.githubusercontent.com/61097093/114653320-a4e16c00-9c9c-11eb-877a-13db99b28ce7.png) </td>
- <td>![image](https://user-images.githubusercontent.com/61097093/114653362-bb87c300-9c9c-11eb-9c08-59d832beb0bf.png) </td>
- <td>![image](https://user-images.githubusercontent.com/61097093/114653388-cb070c00-9c9c-11eb-9396-ff41e2ca8731.png) </td>
-  </tr>
+   <tr><td>0</td><td> ![image](https://user-images.githubusercontent.com/61097093/114653320-a4e16c00-9c9c-11eb-877a-13db99b28ce7.png)</td></tr>
+  <tr><td>1</td><td> ![image](https://user-images.githubusercontent.com/61097093/114653362-bb87c300-9c9c-11eb-9c08-59d832beb0bf.png)</td></tr>
+  <tr><td>2</td><td> ![image](https://user-images.githubusercontent.com/61097093/114653388-cb070c00-9c9c-11eb-9396-ff41e2ca8731.png) </td></tr>
+  
  </table>
  
  2018

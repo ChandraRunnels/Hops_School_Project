@@ -1,8 +1,8 @@
 # Hops
-#• Motivating Question: 
-What question were you setting out to answer at the start of this project?
 
-Question: If I wanted to grow an acre of hops, in what state and what type would I need to grow in order to be the most profitable? 
+
+## Motivation 
+I personally love agriculture. I enjoy driving the back country roads seeing farms and the different techniques of how different plants are grown in large quantities. I especially enjoy seeing hops plants because they are vines that are suspended upward by 25 foot poles that creates an amazing canopy. I also like beer, and since Washington State is also known for it's hoppy beer I got curious about where the hops come from. That is when I discovered that all of the hops grown in the United States were grown in only 3 states, Washington, Oregon and Idaho. Which got me to thinking, if I wanted to grow an acre of hops, in what state and what type would I need to grow in order for that acre to be the most profitable? 
 
 • Data Process: The centerpiece of your writeup should be a comprehensive discussion of your
 process for sourcing, collecting, cleaning, and transforming the raw data into your final dataset. The

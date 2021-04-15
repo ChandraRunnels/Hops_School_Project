@@ -1,4 +1,4 @@
-# Hops
+# DATA 115 Personal Dataset project on Hops
 
 
 ## Motivation: 

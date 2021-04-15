@@ -28,9 +28,9 @@ The following graph shows the 2018 highest grossing hops by State
 
 
 <table>
-   <tr><td>0</td><td> ![image](https://user-images.githubusercontent.com/61097093/114653320-a4e16c00-9c9c-11eb-877a-13db99b28ce7.png)</td></tr>
-  <tr><td>1</td><td> ![image](https://user-images.githubusercontent.com/61097093/114653362-bb87c300-9c9c-11eb-9c08-59d832beb0bf.png)</td></tr>
-  <tr><td>2</td><td> ![image](https://user-images.githubusercontent.com/61097093/114653388-cb070c00-9c9c-11eb-9396-ff41e2ca8731.png) </td></tr>
+   <tr><td><img src="https://user-images.githubusercontent.com/61097093/114653320-a4e16c00-9c9c-11eb-877a-13db99b28ce7.png"></td><td><img 
+  src="https://user-images.githubusercontent.com/61097093/114653362-bb87c300-9c9c-11eb-9c08-59d832beb0bf.png"></td><td><img 
+  src="https://user-images.githubusercontent.com/61097093/114653388-cb070c00-9c9c-11eb-9396-ff41e2ca8731.png" ></td></tr>
   
  </table>
  

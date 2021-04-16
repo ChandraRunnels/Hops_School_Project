@@ -25,16 +25,16 @@ analysis topics or from the techniques we cover later in the course2
 
 | State | Type | Gross Profit|
 | --- | --- | --- |
-|Washington|	Bravo TM|	17919.0	|	
-|Washington	|Super Galena TM	|17231.5	|	
-|Washington	| Eureka! TM	16247.0		|
-|Washington	| Apollo TM	15664.0		|
-|Washington|	Ahtanum TM, YCR 1	15015.0|		
-|Idaho	|Zeus 1/	14649.2		|
-|Washington	|Zeus 1/	14404.5	|	
+|Washington|	Bravo TM |	17919.0	|	
+|Washington	|Super Galena TM	| 17231.5	|	
+|Washington	| Eureka! TM	| 16247.0		|
+|Washington	| Apollo TM	|15664.0		|
+|Washington|	Ahtanum TM, YCR 1	|15015.0|		
+|Idaho	|Zeus 1 |	14649.2		|
+|Washington	|Zeus 1|14404.5	|	
 |Washington	|Ekuanot R, HBC 366	|14206.5	|	
 |Washington|	Azacca TM, ADHA-483|	13700.5	|	
-|Washington	|Palisade R, YCR 4	13425.5	|
+|Washington	|Palisade R, YCR 4	| 13425.5	|
 
 • Presentation: In the final week of class, you will give a three minute presentation3 about your
 dataset and repository

@@ -25,7 +25,6 @@ analysis topics or from the techniques we cover later in the course2
 
 | State | Type | Gross Profit|
 | --- | --- | --- |
-
 |Washington|	Bravo TM|	17919.0	|	
 |Washington	|Super Galena TM	|17231.5	|	
 |Washington	| Eureka! TM	16247.0		|

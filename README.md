@@ -17,30 +17,25 @@ Choose and construct a single visualization to summarize and represent your data
 
 
 
-<table>
-   <tr><td><img src="https://user-images.githubusercontent.com/61097093/114653320-a4e16c00-9c9c-11eb-877a-13db99b28ce7.png"></td><td><img 
-  src="https://user-images.githubusercontent.com/61097093/114653362-bb87c300-9c9c-11eb-9c08-59d832beb0bf.png"></td><td><img 
-  src="https://user-images.githubusercontent.com/61097093/114653388-cb070c00-9c9c-11eb-9396-ff41e2ca8731.png" ></td></tr>
-  
- </table>
- 
- 2018
- 
-![image](https://user-images.githubusercontent.com/61097093/114653340-aca11080-9c9c-11eb-88a1-2a1004e1cbf5.png)
-
-2019
-
-![image](https://user-images.githubusercontent.com/61097093/114653372-c2163a80-9c9c-11eb-8534-89d6c03be63a.png)
-
-2020
-
-![image](https://user-images.githubusercontent.com/61097093/114653397-cfcbc000-9c9c-11eb-8bdd-0643133f9868.png)
-
 
 
 • Analytical Technique: Apply one of the techniques that we have covered in the course to your
 dataset and provide an analysis of the results. You can choose from either among the exploratory data
 analysis topics or from the techniques we cover later in the course2
+
+| State | Type | Gross Profit|
+| --- | --- | --- |
+
+|Washington|	Bravo TM|	17919.0	|	
+|Washington	|Super Galena TM	|17231.5	|	
+|Washington	| Eureka! TM	16247.0		|
+|Washington	| Apollo TM	15664.0		|
+|Washington|	Ahtanum TM, YCR 1	15015.0|		
+|Idaho	|Zeus 1/	14649.2		|
+|Washington	|Zeus 1/	14404.5	|	
+|Washington	|Ekuanot R, HBC 366	|14206.5	|	
+|Washington|	Azacca TM, ADHA-483|	13700.5	|	
+|Washington	|Palisade R, YCR 4	13425.5	|
 
 • Presentation: In the final week of class, you will give a three minute presentation3 about your
 dataset and repository

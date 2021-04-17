@@ -25,7 +25,7 @@ analysis topics or from the techniques we cover later in the course
 
 
 <table>
-<tr><th> 2018 Top Ten </th><th>2019 Top Ten </th><th>2020 Top Ten3</th></tr>
+<tr><th> 2018 Top Ten </th><th>2019 Top Ten </th><th>2020 Top Ten</th></tr>
 <tr><td>
 
 | State | Type | Gross Profit|

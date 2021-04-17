@@ -21,8 +21,10 @@ Choose and construct a single visualization to summarize and represent your data
 
 • Analytical Technique: Apply one of the techniques that we have covered in the course to your
 dataset and provide an analysis of the results. You can choose from either among the exploratory data
-analysis topics or from the techniques we cover later in the course2
+analysis topics or from the techniques we cover later in the course
+
 |2018|
+|---|
 | State | Type | Gross Profit|
 | --- | --- | --- |
 |Washington|	Bravo TM |	17919.0	|	

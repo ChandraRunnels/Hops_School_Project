@@ -57,7 +57,7 @@ analysis topics or from the techniques we cover later in the course
 |Washington|	Azacca TM, ADHA-483	|14157.8	|	
 |Idaho|	Zeus 1	|14028.0	|
 
-</td></tr> 
+</td><td>
 
 | State | Type | Gross Profit|
 | --- | --- | --- |

@@ -22,7 +22,6 @@ Choose and construct a single visualization to summarize and represent your data
       
 ![image](https://user-images.githubusercontent.com/61097093/115101153-aefea700-9ef6-11eb-99ae-31738decfba7.png)
 
-</td><td>
 <tr><td></table>
 
 

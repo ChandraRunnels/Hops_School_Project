@@ -25,7 +25,7 @@ analysis topics or from the techniques we cover later in the course
 
 
 <table>
-<tr><th>2018 <th><th> 2019 <th><tr><th><tr> 2020 </th></tr>
+<tr><th>2018 <th><th> 2019 <th><tr> 2020 </th></tr>
 <tr><td>
 
 | State | Type | Gross Profit|
@@ -35,7 +35,7 @@ analysis topics or from the techniques we cover later in the course
 |WA| Eureka! TM	| 16247.0		|
 |WA	| Apollo TM	|15664.0		|
 |WA|	Ahtanum TM|15015.0|		
-|Idaho	|Zeus 1 |	14649.2		|
+|ID	|Zeus 1 |	14649.2		|
 |WA	|Zeus 1|14404.5	|	
 |WA	|Ekuanot R	|14206.5	|	
 |WA|	Azacca TM|	13700.5	|	

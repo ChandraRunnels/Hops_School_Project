@@ -24,7 +24,9 @@ dataset and provide an analysis of the results. You can choose from either among
 analysis topics or from the techniques we cover later in the course
 
 
-###2018
+<table>
+<tr><th>2018 </th><th>Table 1 Heading 2</th></tr>
+<tr><td>
 | State | Type | Gross Profit|
 | --- | --- | --- |
 |Washington|	Bravo TM |	17919.0	|	
@@ -37,6 +39,15 @@ analysis topics or from the techniques we cover later in the course
 |Washington	|Ekuanot R, HBC 366	|14206.5	|	
 |Washington|	Azacca TM, ADHA-483|	13700.5	|	
 |Washington	|Palisade R, YCR 4	| 13425.5	|
+
+
+</td><td>
+
+|b|1|2|3| 
+|--|--|--|--|
+|a|s|d|f|
+
+</td></tr> </table>
 
 • Presentation: In the final week of class, you will give a three minute presentation3 about your
 dataset and repository

@@ -25,7 +25,7 @@ analysis topics or from the techniques we cover later in the course
 
 
 <table>
-<tr><th>2018 </th><th> 2019 </th></tr>
+<tr><th>2018 </th><th> 2019 </th></tr> 2020 </th></tr>
 <tr><td>
 
 | State | Type | Gross Profit|
@@ -57,7 +57,23 @@ analysis topics or from the techniques we cover later in the course
 |Washington|	Azacca TM, ADHA-483	|14157.8	|	
 |Idaho|	Zeus 1	|14028.0	|
 
-</td></tr> </table>
+</td></tr> 
+
+| State | Type | Gross Profit|
+| --- | --- | --- |
+|Oregon|	Super Galena TM|	16806.0	|	
+|Washington	|Super Galena TM	|15816.0|		
+|Idaho	Idaho 7 TM	|14163.6	|	
+|Oregon	|Amarillo R, VGXP01	|14160.0	|	
+|Washington|	Eureka! TM|	13992.0		|
+|Washington|	Bravo TM|	13848.0		|
+|Oregon	|Liberty|	13734.0		|
+|Idaho	Mosaic R, HBC 369|	13543.0|		
+|Washington	|Apollo TM	|13488.0	|	
+|Washington	|Ekuanot R, HBC 366	|12948.0	|
+
+
+<tr><td></table>
 
 • Presentation: In the final week of class, you will give a three minute presentation3 about your
 dataset and repository

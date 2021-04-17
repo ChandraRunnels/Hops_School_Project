@@ -72,7 +72,6 @@ analysis topics or from the techniques we cover later in the course
 |Washington	|Apollo TM	|13488.0	|	
 |Washington	|Ekuanot R, HBC 366	|12948.0	|
 
-
 <tr><td></table>
 
 • Presentation: In the final week of class, you will give a three minute presentation3 about your

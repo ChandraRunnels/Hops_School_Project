@@ -25,7 +25,7 @@ analysis topics or from the techniques we cover later in the course
 
 
 <table>
-<tr><th>2018 </th><th>Table 1 Heading 2</th></tr>
+<tr><th>2018 </th><th> 2019 </th></tr>
 <tr><td>
 
 | State | Type | Gross Profit|
@@ -44,9 +44,18 @@ analysis topics or from the techniques we cover later in the course
 
 </td><td>
 
-|b|1|2| 
-|--|--|--|
-|a|s|d|
+| State | Type | Gross Profit|
+| --- | --- | --- |
+|Washington|	Bravo TM	|18652.8		|
+|Washington|	Eureka! TM|	18490.4		|
+|Washington|	Super Galena TM	|16651.8	|	
+|Washington|	Ahtanum TM, YCR 1	|16356.0|		
+|Washington|	Apollo TM	|15863.0	|	
+|Washington|	Zeus 1/	|15196.0		|
+|Washington|	Palisade R, YCR 4|	14616.0	|	
+|Washington|	Ekuanot R, HBC 366	|14401.4	|	
+|Washington|	Azacca TM, ADHA-483	|14157.8	|	
+|Idaho|	Zeus 1	|14028.0	|
 
 </td></tr> </table>
 

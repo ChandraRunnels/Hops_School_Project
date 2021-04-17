@@ -27,6 +27,7 @@ analysis topics or from the techniques we cover later in the course
 <table>
 <tr><th>2018 </th><th>Table 1 Heading 2</th></tr>
 <tr><td>
+
 | State | Type | Gross Profit|
 | --- | --- | --- |
 |Washington|	Bravo TM |	17919.0	|	
@@ -43,9 +44,9 @@ analysis topics or from the techniques we cover later in the course
 
 </td><td>
 
-|b|1|2|3| 
-|--|--|--|--|
-|a|s|d|f|
+|b|1|2| 
+|--|--|--|
+|a|s|d|
 
 </td></tr> </table>
 

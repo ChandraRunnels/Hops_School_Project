@@ -25,7 +25,7 @@ analysis topics or from the techniques we cover later in the course
 
 
 <table>
-<tr><th>2018 <th><th> 2019 </th><tr> 2020 </th></tr>
+<tr><th>2018 <th><th> 2019 </th><tr></th></tr> 2020 </th></tr>
 <tr><td>
 
 | State | Type | Gross Profit|
@@ -34,12 +34,12 @@ analysis topics or from the techniques we cover later in the course
 |WA	|Super Galena TM	| 17231.5	|	
 |WA| Eureka! TM	| 16247.0		|
 |WA	| Apollo TM	|15664.0		|
-|WA|	Ahtanum TM, YCR 1	|15015.0|		
+|WA|	Ahtanum TM|15015.0|		
 |Idaho	|Zeus 1 |	14649.2		|
 |WA	|Zeus 1|14404.5	|	
-|WA	|Ekuanot R, HBC 366	|14206.5	|	
-|WA|	Azacca TM, ADHA-483|	13700.5	|	
-|WA	|Palisade R, YCR 4	| 13425.5	|
+|WA	|Ekuanot R	|14206.5	|	
+|WA|	Azacca TM|	13700.5	|	
+|WA	|Palisade R	| 13425.5	|
 
 
 </td><td>
@@ -49,12 +49,12 @@ analysis topics or from the techniques we cover later in the course
 |WA|	Bravo TM	|18652.8		|
 |WA|	Eureka! TM|	18490.4		|
 |WA|	Super Galena TM	|16651.8	|	
-|WA|	Ahtanum TM, YCR 1	|16356.0|		
+|WA|	Ahtanum TM|16356.0|		
 |WA|	Apollo TM	|15863.0	|	
-|WA|	Zeus 1/	|15196.0		|
-|WA|	Palisade R, YCR 4|	14616.0	|	
-|WA|	Ekuanot R, HBC 366	|14401.4	|	
-|WA|	Azacca TM, ADHA-483	|14157.8	|	
+|WA|	Zeus 1	|15196.0		|
+|WA|	Palisade R|	14616.0	|	
+|WA|	Ekuanot R	|14401.4	|	
+|WA|	Azacca TM	|14157.8	|	
 |ID|	Zeus 1	|14028.0	|
 
 </td><td>
@@ -64,13 +64,13 @@ analysis topics or from the techniques we cover later in the course
 |OR|	Super Galena TM|	16806.0	|	
 |WA|Super Galena TM	|15816.0|		
 |ID|	Idaho 7 TM	|14163.6	|	
-|OR	|Amarillo R, VGXP01	|14160.0	|	
+|OR	|Amarillo R	|14160.0	|	
 |WA|	Eureka! TM|	13992.0		|
 |WA|	Bravo TM|	13848.0		|
 |OR	|Liberty|	13734.0		|
-|ID	|Mosaic R, HBC 369|	13543.0|		
+|ID	|Mosaic R|	13543.0|		
 |WA	|Apollo TM	|13488.0	|	
-|WA	|Ekuanot R, HBC 366	|12948.0	|
+|WA	|Ekuanot R	|12948.0	|
 
 <tr><td></table>
 

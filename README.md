@@ -25,7 +25,7 @@ analysis topics or from the techniques we cover later in the course
 
 
 <table>
-<tr><th>2018 </th><th> 2019 </th></tr> 2020 </th></tr>
+<tr><th>2018 </th><th> 2019 </th><tr> 2020 </th></tr>
 <tr><td>
 
 | State | Type | Gross Profit|

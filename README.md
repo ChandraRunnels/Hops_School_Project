@@ -30,47 +30,47 @@ analysis topics or from the techniques we cover later in the course
 
 | State | Type | Gross Profit|
 | --- | --- | --- |
-|Washington|	Bravo TM |	17919.0	|	
-|Washington	|Super Galena TM	| 17231.5	|	
-|Washington	| Eureka! TM	| 16247.0		|
-|Washington	| Apollo TM	|15664.0		|
-|Washington|	Ahtanum TM, YCR 1	|15015.0|		
+|WA|	Bravo TM |	17919.0	|	
+|WA	|Super Galena TM	| 17231.5	|	
+|WA| Eureka! TM	| 16247.0		|
+|WA	| Apollo TM	|15664.0		|
+|WA|	Ahtanum TM, YCR 1	|15015.0|		
 |Idaho	|Zeus 1 |	14649.2		|
-|Washington	|Zeus 1|14404.5	|	
-|Washington	|Ekuanot R, HBC 366	|14206.5	|	
-|Washington|	Azacca TM, ADHA-483|	13700.5	|	
-|Washington	|Palisade R, YCR 4	| 13425.5	|
+|WA	|Zeus 1|14404.5	|	
+|WA	|Ekuanot R, HBC 366	|14206.5	|	
+|WA|	Azacca TM, ADHA-483|	13700.5	|	
+|WA	|Palisade R, YCR 4	| 13425.5	|
 
 
 </td><td>
 
 | State | Type | Gross Profit|
 | --- | --- | --- |
-|Washington|	Bravo TM	|18652.8		|
-|Washington|	Eureka! TM|	18490.4		|
-|Washington|	Super Galena TM	|16651.8	|	
-|Washington|	Ahtanum TM, YCR 1	|16356.0|		
-|Washington|	Apollo TM	|15863.0	|	
-|Washington|	Zeus 1/	|15196.0		|
-|Washington|	Palisade R, YCR 4|	14616.0	|	
-|Washington|	Ekuanot R, HBC 366	|14401.4	|	
-|Washington|	Azacca TM, ADHA-483	|14157.8	|	
-|Idaho|	Zeus 1	|14028.0	|
+|WA|	Bravo TM	|18652.8		|
+|WA|	Eureka! TM|	18490.4		|
+|WA|	Super Galena TM	|16651.8	|	
+|WA|	Ahtanum TM, YCR 1	|16356.0|		
+|WA|	Apollo TM	|15863.0	|	
+|WA|	Zeus 1/	|15196.0		|
+|WA|	Palisade R, YCR 4|	14616.0	|	
+|WA|	Ekuanot R, HBC 366	|14401.4	|	
+|WA|	Azacca TM, ADHA-483	|14157.8	|	
+|ID|	Zeus 1	|14028.0	|
 
 </td><td>
 
 | State | Type | Gross Profit|
 | --- | --- | --- |
-|Oregon|	Super Galena TM|	16806.0	|	
-|Washington	|Super Galena TM	|15816.0|		
-|Idaho|	Idaho 7 TM	|14163.6	|	
-|Oregon	|Amarillo R, VGXP01	|14160.0	|	
-|Washington|	Eureka! TM|	13992.0		|
-|Washington|	Bravo TM|	13848.0		|
-|Oregon	|Liberty|	13734.0		|
-|Idaho	|Mosaic R, HBC 369|	13543.0|		
-|Washington	|Apollo TM	|13488.0	|	
-|Washington	|Ekuanot R, HBC 366	|12948.0	|
+|OR|	Super Galena TM|	16806.0	|	
+|WA|Super Galena TM	|15816.0|		
+|ID|	Idaho 7 TM	|14163.6	|	
+|OR	|Amarillo R, VGXP01	|14160.0	|	
+|WA|	Eureka! TM|	13992.0		|
+|WA|	Bravo TM|	13848.0		|
+|OR	|Liberty|	13734.0		|
+|ID	|Mosaic R, HBC 369|	13543.0|		
+|WA	|Apollo TM	|13488.0	|	
+|WA	|Ekuanot R, HBC 366	|12948.0	|
 
 <tr><td></table>
 

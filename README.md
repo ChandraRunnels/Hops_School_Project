@@ -20,12 +20,13 @@ Choose and construct a single visualization to summarize and represent your data
 </td><td>
       
 ![image](https://user-images.githubusercontent.com/61097093/115101153-aefea700-9ef6-11eb-99ae-31738decfba7.png)
-</td><td>
-
-![image](https://user-images.githubusercontent.com/61097093/115101161-c047b380-9ef6-11eb-9e87-207d2248e43a.png)
 
 </td><td>
 <tr><td></table>
+
+
+![image](https://user-images.githubusercontent.com/61097093/115101161-c047b380-9ef6-11eb-9e87-207d2248e43a.png)
+
 
 
 

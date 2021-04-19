@@ -24,16 +24,9 @@ Below are the scatterplots of the profit per acre by State for 2019 and 2020.
 
 </table>
 
+## Analytical Technique: 
 
-
-
-
-
-
-• Analytical Technique: Apply one of the techniques that we have covered in the course to your
-dataset and provide an analysis of the results. You can choose from either among the exploratory data
-analysis topics or from the techniques we cover later in the course
-
+Below are the "Top Ten Plants for 2018-2020. The biggest thing I learned while doing this assignment was to not make assumptions. While I was working with the data, I had assumed the the greatest yield per acre automatically meant that that would mean the greatest profit. I forgot to take into consideration that each state had different buy prices. This explains the scatter plot for 2019 where you can see the deviation between each state. In 2019 Idaho price was $5.25 a pound wheras Oregon was $5.50 and Washington growers got $5.80. The year 2020 was an interesting case. The prices went up in all states Idaho getting $5.80lb and Washington and Oregon getting $6.00/lb.      
 
 <table>
 <tr><th> 2018 Top Ten </th><th>2019 Top Ten </th><th>2020 Top Ten</th></tr>
@@ -84,6 +77,7 @@ analysis topics or from the techniques we cover later in the course
 |WA	|Ekuanot R	|12948.0	|
 
 <tr><td></table>
+
 
 • Presentation: In the final week of class, you will give a three minute presentation3 about your
 dataset and repository

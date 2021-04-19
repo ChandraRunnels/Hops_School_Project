@@ -78,9 +78,9 @@ Below are the "Top Ten Plants for 2018-2020. The biggest thing I learned while d
 
 <tr><td></table>
 
-# Conclusion:
+## Conclusion:
 
-If you were to grow an acre of hops and you wanted the highest profit for that acre, your best bet would be to grow Super Galena, Bravo or Eureka! in either Washington or Oregon.   
+If you were to grow an acre of hops and you wanted the highest profit for that acre, your best bet would be to grow Super Galena, Bravo or Eureka! in either Washington or Oregon.    
 
 
 

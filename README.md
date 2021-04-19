@@ -10,22 +10,22 @@
 
 
 #Visualization: 
-Choose and construct a single visualization to summarize and represent your data.
+Below are the scatterplots of the profit per acre by State for 2019 and 2020.
 
 
 <table>
    <tr><td>
       
-![image](https://user-images.githubusercontent.com/61097093/115101118-837bbc80-9ef6-11eb-825c-d4a16b1dcc57.png)
+![image](https://user-images.githubusercontent.com/61097093/115101153-aefea700-9ef6-11eb-99ae-31738decfba7.png)
       
 </td><td>
       
-![image](https://user-images.githubusercontent.com/61097093/115101153-aefea700-9ef6-11eb-99ae-31738decfba7.png)
+![image](https://user-images.githubusercontent.com/61097093/115101161-c047b380-9ef6-11eb-9e87-207d2248e43a.png)
 
 <tr><td></table>
 
 
-![image](https://user-images.githubusercontent.com/61097093/115101161-c047b380-9ef6-11eb-9e87-207d2248e43a.png)
+
 
 
 

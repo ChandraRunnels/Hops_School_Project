@@ -9,7 +9,8 @@
    In order to work with the data effectively, I needed to rearrange some columns in the excel worksheets so that each year went to individual columns next to each other in the file. I also erased any cells that had (D) or (NA) because they had no useful information and made the calculations in r difficult. I merged the price per lb information from the Hops Price Table to add price columns for each year. I also erased rows that had more then one type of hop since I wanted to know what the highest grossing singular type was. I then created the Gross Profit column for each year by multiplying the yield per acre column by price column. This gave me the information I needed to work with in order to create the visuals below. After the data manipulation I uploaded this CVS file https://github.com/chanzy314/Hops_School_Project/blob/main/Hop%20Data%20with%20Prices.csv to rstudio an made my evaluations. 
 
 
-#Visualization: 
+##Visualization: 
+
 Below are the scatterplots of the profit per acre by State for 2019 and 2020.
 
 

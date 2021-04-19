@@ -22,7 +22,7 @@ Below are the scatterplots of the profit per acre by State for 2019 and 2020.
       
 ![image](https://user-images.githubusercontent.com/61097093/115101161-c047b380-9ef6-11eb-9e87-207d2248e43a.png)
 
-<tr><td></table>
+</table>
 
 
 

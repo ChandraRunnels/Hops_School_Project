@@ -2,7 +2,7 @@
 
 
 ## Motivation: 
-   My motivation is pretty simple I enjoy plants and agriculture. When I am driving country roads it's fun seeing farms and the different techniques of how different plants are grown in large quantities. I especially enjoy seeing hops plants because they are vines that are suspended upward by 25 foot poles that creates an amazing canopy. I also like beer, and since Washington State is also known for it's hoppy beer I got curious about where the hops come from. That is when I discovered that all of the hops grown in the United States were grown in only 3 states, Washington, Oregon and Idaho. Which got me to thinking, if I wanted to grow an acre of hops, in what state and what type would I need to grow in order for that acre to be the most profitable? 
+   My motivation is pretty simple I enjoy plants and agriculture. When I am driving country roads it's fun seeing farms and the different techniques of how different plants are grown in large quantities. I especially enjoy seeing hops plants because they are vines that are suspended upward by 25 foot poles that creates an amazing canopy. I also like beer, and since Washington State is also known for it's hoppy beer I got curious about where the hops come from. That is when I discovered that almost all of the hops grown in the United States were grown in only 3 states, Washington, Oregon and Idaho. Which got me to thinking, if I wanted to grow an acre of hops, in what state and what type would I need to grow in order for that acre to be the most profitable? 
 
 ## Data Process: 
    I found my data at the USDA's website https://usda.library.cornell.edu/concern/publications/s7526c41m where I downloaded the csv files with the data from 2018-2020 production of different types of hops, yield and prices of hops grown in Idaho, Oregon, and Washington. 
@@ -13,7 +13,7 @@
 
 ## Analytical Technique: 
 
-The biggest thing I learned while doing this assignment was to map out what I was planning to do. While I was working with the data, I had assumed the the greatest yield per acre automatically meant the greatest profit and failed to take in consideration the price.
+The biggest thing I learned while doing this assignment was to map out what I was planning to do. While I was working with the data, I had assumed the the greatest yield per acre automatically meant the greatest profit and failed to take in consideration the price. Which is why I made the new column in my data set. 
 
 <table>
 <tr><th> 2018 Price/lb </th><th>2019 Price/lb </th><th>2020 Price/lb </th></tr>
@@ -52,55 +52,57 @@ With the year 2020 having the most equality in price of the three years I assume
 
 ![image](https://user-images.githubusercontent.com/61097093/115972749-19ba6e80-a505-11eb-81fe-367b0a066593.png)
 
+With this in mind I checked the previous years enviromental factors for the other states to make sure there were no other inconsistencies. At this point I realized that my first instinct to check yield per acre for each plant would be my best chance to finding the most profitable plant regardless of price.  
+
 Since I still wanted to know which type of hop plant has the greatest yield for profit I filtered for the top ten rows for 2018- 2020.    
-Below are the "Top Ten Hops Plants" by name for 2018-2020.
+Below are the "Top Ten Hops Plants" by yield for 2018-2020.
 <table>
 <tr><th> 2018 Top Ten </th><th>2019 Top Ten </th><th>2020 Top Ten</th></tr>
 <tr><td>
 
-| State | Type | Gross Profit|
+| State | Type | Yield Per Acre|
 | --- | --- | --- |
-|WA|	Bravo TM |	17919.0	|	
-|WA	|Super Galena TM	| 17231.5	|	
-|WA| Eureka! TM	| 16247.0		|
-|WA	| Apollo TM	|15664.0		|
-|WA|	Ahtanum TM|15015.0|		
-|ID	|Zeus 1 |	14649.2		|
-|WA	|Zeus 1|14404.5	|	
-|WA	|Ekuanot R	|14206.5	|	
-|WA|	Azacca TM|	13700.5	|	
-|WA	|Palisade R	| 13425.5	|
+|WA|	Bravo TM	|3258		|
+|WA|	Super Galena TM|	3133|		
+|WA|	Eureka! TM	|2954		|
+|WA|	Apollo TM	|2848		|
+|ID|	Zeus 1/	|2764		|
+|WA|	Ahtanum TM|	2730	|	
+|WA|	Zeus 1/|	2619		|
+|WA|	Ekuanot R|	2583	|	
+|ID|	Super Galena TM|2493|		
+|WA|	Azacca TM, ADHA-483|	2491|	
 
 
 </td><td>
 
-| State | Type | Gross Profit|
+| State | Type | Yield Per Acre|
 | --- | --- | --- |
-|WA|	Bravo TM	|18652.8		|
-|WA|	Eureka! TM|	18490.4		|
-|WA|	Super Galena TM	|16651.8	|	
-|WA|	Ahtanum TM|16356.0|		
-|WA|	Apollo TM	|15863.0	|	
-|WA|	Zeus 1	|15196.0		|
-|WA|	Palisade R|	14616.0	|	
-|WA|	Ekuanot R	|14401.4	|	
-|WA|	Azacca TM	|14157.8	|	
-|ID|	Zeus 1	|14028.0	|
+|WA|	Bravo TM	|3216	|	
+|WA|	Eureka! TM|	3188|		
+|WA|	Super Galena TM|	2871|		
+|WA|	Ahtanum TM|	2820		|
+|WA|	Apollo TM	|2735		|
+|ID|	Zeus 1/	|2672		|
+|WA|	Zeus 1/	|2620		|
+|OR|	Super Galena TM |2580|		
+|ID|	Idaho 7 TM	|2562		|
+|WA|	Palisade R|	2520	|
 
 </td><td>
 
-| State | Type | Gross Profit|
+| State | Type | Yield Per Acre|
 | --- | --- | --- |
-|OR|	Super Galena TM|	16806.0	|	
-|WA|Super Galena TM	|15816.0|		
-|ID|	Idaho 7 TM	|14163.6	|	
-|OR	|Amarillo R	|14160.0	|	
-|WA|	Eureka! TM|	13992.0		|
-|WA|	Bravo TM|	13848.0		|
-|OR	|Liberty|	13734.0		|
-|ID	|Mosaic R|	13543.0|		
-|WA	|Apollo TM	|13488.0	|	
-|WA	|Ekuanot R	|12948.0	|
+|OR|	Super Galena TM|	2801|		
+|WA|	Super Galena TM|	2636	|	
+|ID|	Idaho 7 TM|	2442		|
+|OR|	Amarillo R |	2360	|	
+|ID|	Mosaic R |	2335		|
+|WA|	Eureka! TM	|2332		|
+|WA|	Bravo TM	|2308		|
+|OR|	Liberty	|2289		|
+|WA|	Apollo TM	|2248	|	
+|WA|	Ekuanot R |	2158	|
 
 <tr><td></table>
 

@@ -52,10 +52,9 @@ With the year 2020 having the most equality in price of the three years I assume
 
 ![image](https://user-images.githubusercontent.com/61097093/115972749-19ba6e80-a505-11eb-81fe-367b0a066593.png)
 
-With this in mind I checked the previous years enviromental factors for the other states to make sure there were no other inconsistencies. At this point I realized that my first instinct to check yield per acre for each plant would be my best chance to finding the most profitable plant regardless of price.  
+With this in mind I checked the previous years enviromental factors for the other states to make sure there were no other inconsistencies. At this point I realized that my first instinct to check yield per acre for each plant would be my best chance to finding the most profitable plant, keeping in mind that 2020 will have skewed values.  
 
-Since I still wanted to know which type of hop plant has the greatest yield for profit I filtered for the top ten rows for 2018- 2020.    
-Below are the "Top Ten Hops Plants" by yield for 2018-2020.
+Below are the 3 years by the top ten yield producers.
 <table>
 <tr><th> 2018 Top Ten </th><th>2019 Top Ten </th><th>2020 Top Ten</th></tr>
 <tr><td>
@@ -105,6 +104,8 @@ Below are the "Top Ten Hops Plants" by yield for 2018-2020.
 |WA|	Ekuanot R |	2158	|
 
 <tr><td></table>
+
+I created another excel spreadsheet from this information to use in rStudio to make my visualizations.
 
 With this information 
 ## Conclusion:

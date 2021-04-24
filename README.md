@@ -26,7 +26,54 @@ Below are the scatterplots of the profit per acre by State for 2019 and 2020.
 
 ## Analytical Technique: 
 
-The biggest thing I learned while doing this assignment was to not make assumptions. While I was working with the data, I had assumed the the greatest yield per acre automatically meant the greatest profit. I forgot to take into consideration that each state had different buy prices. This explains the scatter plot for 2019 where you can see the deviation between each state. In 2019 Idaho price was $5.25 a pound wheras Oregon was $5.50 and Washington growers got $5.80. With that being said, the year 2020 was an interesting case. The prices went up in all states Idaho getting $5.80/lb and Washington and Oregon getting $6.00/lb. This gives the 2020 scatterplot a very linear line with Idaho and Oregon catching up to Washington. Another note is that the overall yields for Washington state went down. The top yield per lbs in 2019 was 3216 lbs vs 2801 lbs in 2020. That's about a 13% decrease. After a little research I found that this was due to the wildfires that ripped across the state and caused issues because of the smoke.
+The biggest thing I learned while doing this assignment was to map out what I was planning to do. While I was working with the data, I had assumed the the greatest yield per acre automatically meant the greatest profit and failed to take in consideration the price. 
+
+<table>
+<tr><th> 2018 Price/lb </th><th>2019 Price/lb </th><th>2020 Price/lb </th></tr>
+<tr><td>
+
+| State | Price |
+| --- | --- |
+|ID|	5.30|
+|OR	|5.40	| 
+|WA| 5.50	| 
+
+
+
+</td><td>
+
+| State | Price |
+| --- | --- |
+|ID|	5.25|
+|OR	|5.50	| 
+|WA| 5.80	| 
+
+</td><td>
+
+| State | Price |
+| --- | --- |
+|ID|	5.80|
+|OR	|6.00	| 
+|WA| 6.00	| 
+
+<tr><td></table>
+
+In 2018 had  and 2019 the prices for hops per state varied causing the deviations seen in these  
+
+<table>
+   <tr><td>
+      
+![image](https://user-images.githubusercontent.com/61097093/115971632-664e7b80-a4fe-11eb-9d73-84a5b5f38fa3.png)
+       
+</td><td>
+      
+![image](https://user-images.githubusercontent.com/61097093/115101153-aefea700-9ef6-11eb-99ae-31738decfba7.png)
+
+</table>
+
+Washington has always had a higher price until 2020. 
+
+With that being said, the year 2020 was an interesting case. The prices went up in all states Idaho getting $5.80/lb and Washington and Oregon getting $6.00/lb. This gives the 2020 scatterplot a very linear line with Idaho and Oregon catching up to Washington. Another note is that the overall yields for Washington state went down. The top yield per lbs in 2019 was 3216 lbs vs 2801 lbs in 2020. That's about a 13% decrease. After a little research I found that this was due to the wildfires that ripped across the state and destoyed the plants.
 
 Since I still wanted to know which type of hop plant has the greatest yield for profit I filtered for the top ten rows for 2018- 2020.    
 Below are the "Top Ten Hops Plants" by name for 2018-2020.

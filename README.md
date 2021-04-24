@@ -39,7 +39,6 @@ The biggest thing I learned while doing this assignment was to map out what I wa
 |WA| 5.50	| 
 
 
-
 </td><td>
 
 | State | Price |
@@ -56,7 +55,7 @@ The biggest thing I learned while doing this assignment was to map out what I wa
 |OR	|6.00	| 
 |WA| 6.00	| 
 
-<tr><td></table>
+</table>
 
 In 2018 had  and 2019 the prices for hops per state varied causing the deviations seen in these  
 

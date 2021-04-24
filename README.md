@@ -30,7 +30,7 @@ The biggest thing I learned while doing this assignment was to map out what I wa
 
 <table>
 <tr><th> 2018 Price/lb </th><th>2019 Price/lb </th><th>2020 Price/lb </th></tr>
-<tr><td>
+
 
 | State | Price |
 | --- | --- |

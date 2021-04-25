@@ -111,7 +111,7 @@ I created another excel spreadsheet from the information above to use in rStudio
 
 
 ## Conclusion:
-With the graph above I went back to the original data and found that Washington is the only one that grows the top three plants, with Oregon in 4th and Idaho in 5th place. In conclusion, if you were to grow an acre of hops and you wanted the highest profit for that acre, as of now the greatest yields per state are Bravo in Washington, Super Galena in Oregon and Zues 1 Idaho.      
+With the graph above I went back to the original data and found that Washington is the only one that grows the top three plants, with Oregon in 4th and Idaho in 5th place. In conclusion, if you were to grow an acre of hops and you wanted the highest profit for that acre, as of now the greatest yields per state are Bravo in Washington, Super Galena in Oregon and Zues 1 for Idaho.      
 
 
 

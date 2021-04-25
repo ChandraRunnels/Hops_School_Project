@@ -105,15 +105,14 @@ Below are the 3 years by the top ten yield producers.
 
 ## Visualization: 
 
-I created another excel spreadsheet from this information to use in rStudio to make my visualization. This time I used the mean of yield from the top 10 plants in order to find the highest yielding plant. 
+I created another excel spreadsheet from the information above to use in rStudio to make my visualization. This time I used the mean of the yield per acre from 2018-2020 from the top 10 plants in order to find the highest yielding plant. 
 
 ![image](https://user-images.githubusercontent.com/61097093/115976637-d1ab4400-a524-11eb-97ab-d39885d2a362.png)
 
 
-With this information 
 ## Conclusion:
 
-If you were to grow an acre of hops and you wanted the highest profit for that acre, your best bet would be to grow Super Galena, Bravo or Eureka! in either Washington or Oregon.    
+If you were to grow an acre of hops and you wanted the highest profit for that acre, as of now the greatest yields per state are Bravo in Washington, Super Galena in Oregon and Zues 1 Idaho.      
 
 
 

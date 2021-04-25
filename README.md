@@ -8,8 +8,6 @@
    I found my data at the USDA's website https://usda.library.cornell.edu/concern/publications/s7526c41m where I downloaded the csv files with the data from 2018-2020 production of different types of hops, yield and prices of hops grown in Idaho, Oregon, and Washington. 
    In order to work with the data effectively, I needed to rearrange some columns in the excel worksheets so that each year went to individual columns next to each other in the file. I also erased any cells that had (D) or (NA) because they had no useful information and made the calculations in rstudio difficult. I merged the price per lb information from the Hops Price Table to add price columns for each year. I also erased rows that had more then one type of hop since I wanted to know what the highest grossing singular type was. I then created the Gross Profit column for each year by multiplying the yield per acre column by price column. This gave me the information I needed to work with in order to create the visuals below. After the data manipulation I uploaded this CVS file https://github.com/chanzy314/Hops_School_Project/blob/main/Hop%20Data%20with%20Prices.csv to rstudio and made my evaluations. 
 
-## Visualization: 
-
 
 ## Analytical Technique: 
 
@@ -105,7 +103,12 @@ Below are the 3 years by the top ten yield producers.
 
 <tr><td></table>
 
-I created another excel spreadsheet from this information to use in rStudio to make my visualizations.
+## Visualization: 
+
+I created another excel spreadsheet from this information to use in rStudio to make my visualization. This time I used the mean of yield from the top 10 plants in order to find the highest yielding plant. 
+
+![image](https://user-images.githubusercontent.com/61097093/115976637-d1ab4400-a524-11eb-97ab-d39885d2a362.png)
+
 
 With this information 
 ## Conclusion:
